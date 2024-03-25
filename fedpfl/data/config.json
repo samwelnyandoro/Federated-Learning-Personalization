@@ -1,0 +1,11 @@
+{
+    "algorithm": "FedHybridAvgLGDual",
+    "hybrid_threshold": 30000,
+    "epochs": {
+        "full": 1,
+        "body": 1,
+        "head": 1,
+        "fine-tuning": 1
+    },
+    "fine-tuning": false
+}

@@ -1,0 +1,4 @@
+.venv
+.vscode
+__pycache__/
+fedpfl/federated_learning/example/data
