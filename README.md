@@ -188,7 +188,7 @@ I provide an [example](/fedpfl/federated_learning/example) which was adapted fro
 Start by downloading the source files with:
 
 ```bash
-git clone https://github.com/samwelnyandoro/FederatedLearning-Personalization.git fl_personalization
+git clone https://github.com/samwelnyandoro/FederatedLearning-Personalization.git
 ```
 
 This will create a folder `fl_personalization` with the source code. Then change the directory to the `fl_personalization` with:
